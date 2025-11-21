@@ -1,3 +1,4 @@
+
 import type { PortfolioData } from './types';
 
 export const portfolioData: PortfolioData = {
@@ -83,8 +84,8 @@ export const portfolioData: PortfolioData = {
     }
   ],
   contact: {
-    github: "https://github.com",
-    linkedin: "https://linkedin.com",
+    github: "https://github.com/reisdev26/",
+    linkedin: "https://www.linkedin.com/in/welerson-reis-/",
     email: "contato@welersonreis.com"
   }
 };
